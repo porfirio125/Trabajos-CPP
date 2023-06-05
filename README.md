@@ -1,39 +1,27 @@
-### <div align="center">Por: Wilson Porfirio</div>  
-  
- ---
+<h1 align="left">Trabajos En c++</h1>
 
-- 🌱 Actualmente Estoy Aprendiend C++   
-  
+###
 
-- ⚡ 
-  
+<p align="left">Por: Wilson Porfirio</p>
 
-<br/>  
+###
 
----
-## Mis Habilidades
-<table><tr><td valign="top" width="33%">
+<h2 align="left">Mis Habilidades</h2>
 
----
+###
 
-### Lenguajes  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<p align="left">✨ Actualmente Estoy Aprendiendo C++</p>
+
+###
+
+<h2 align="left">Codifico con</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-
-
-</td></tr></table>  
-
-<br/>  
-
----
-## Contactate Conmigo
-<div align="center">
-<a href="https://github.com/porfirio125" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+###
