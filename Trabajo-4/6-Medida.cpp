@@ -9,7 +9,7 @@ int main() {
     cin >> pies;
 
     // Definir las equivalencias de unidades
-    const double pulgadas_por_pie = 12.0;
+    const double pulgadas_por_pie = 12.0; // es necesario que se use constante
     const double yardas_por_pie = 1.0 / 3.0;
     const double centimetros_por_pulgada = 2.54;
     const double metros_por_centimetro = 0.01;
@@ -28,4 +28,4 @@ int main() {
     cout << " Metros: " << metros << endl;
 
     return 0;
-}
+} // REALIZAR LA TRANSFORMACION DE YARDAS A PIES
