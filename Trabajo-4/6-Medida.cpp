@@ -24,7 +24,7 @@ int main() {
 
     // Mostrar el resultado al usuario
     cout << " Respuesta: " << endl;
-    cout << " Yardas A Pies: " << pie << endl;
+    cout << " Yardas A Pies: " << pie << endl; // Transformado De Yardas A Pies
     cout << " Pie A Yardas: " << yardas << endl;
     cout << " Pies A Pulgadas: " << pulgadas << endl;
     cout << " Pulgadas A Centimetros: " << centimetros << endl;
